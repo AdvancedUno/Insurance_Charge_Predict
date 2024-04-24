@@ -38,9 +38,6 @@ The application will be available at `http://localhost:3000`.
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
 - [CSS Modules](https://github.com/css-modules/css-modules) - Used for styling the components with scoped CSS.
 
-## Authors
-
-- [Your Name]
 
 ## License
 
